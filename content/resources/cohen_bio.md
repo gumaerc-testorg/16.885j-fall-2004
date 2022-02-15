@@ -2,8 +2,13 @@
 content_type: resource
 description: This file contains biography for Aaron Cohen, Professor Emeritus of Mechanical
   Engineering Texas A&M University.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-885j-aircraft-systems-engineering-fall-2004/52c4b31a63758b8b93bf8d6f21f71dee_cohen_bio.pdf
+file: /media/courses/16-885j-aircraft-systems-engineering-fall-2004/52c4b31a63758b8b93bf8d6f21f71dee_cohen_bio.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: cohen_bio.pdf
 uid: 52c4b31a-6375-8b8b-93bf-8d6f21f71dee
