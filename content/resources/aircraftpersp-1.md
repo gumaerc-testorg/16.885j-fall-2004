@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 7464a7de-6744-d97c-7d20-53562a912f35
 resourcetype: Document
 title: aircraftpersp.pdf
 uid: 4665e240-307f-4fa3-0f76-0c6aab8d7ed6

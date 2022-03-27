@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 11cdee1a-555f-7a47-7af7-8d52e8dbcf9d
 resourcetype: Document
 title: aircraft_sys_des.pdf
 uid: 46444ee2-0e06-97f9-9e14-75b84780f506

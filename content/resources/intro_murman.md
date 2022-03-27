@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 11cdee1a-555f-7a47-7af7-8d52e8dbcf9d
 resourcetype: Document
 title: intro_murman.pdf
 uid: 588bcd11-ad72-0539-c9c0-147d9dc5b101

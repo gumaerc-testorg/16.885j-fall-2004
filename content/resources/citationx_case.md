@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c6354de9-439f-4863-7bec-e616f2da8dcc
 resourcetype: Document
 title: citationx_case.pdf
 uid: 3c8d442e-d82b-164a-a983-396fb6c954dd

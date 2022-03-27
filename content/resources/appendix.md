@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c6354de9-439f-4863-7bec-e616f2da8dcc
 resourcetype: Document
 title: appendix.pdf
 uid: 27529106-8e3e-c940-5c93-9ac8177cf269

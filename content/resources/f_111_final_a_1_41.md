@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c6354de9-439f-4863-7bec-e616f2da8dcc
 resourcetype: Document
 title: f_111_final_a_1_41.pdf
 uid: 9a649121-eb38-a7f4-d17f-7f62d2b7d7aa
