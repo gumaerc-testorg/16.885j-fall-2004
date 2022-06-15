@@ -6,7 +6,7 @@ description: 'This file contains biography for Paul Alfred Lagace, margaret MacV
   co-director, leaders For manufacturing and system design and management.
 
   Programs'
-file: /media/courses/16-885j-aircraft-systems-engineering-fall-2004/ab3c1c4bb378503df3bde596a93a1f65_paul_alfred_laga.pdf
+file: /courses/16-885j-aircraft-systems-engineering-fall-2004/ab3c1c4bb378503df3bde596a93a1f65_paul_alfred_laga.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -18,3 +18,7 @@ resourcetype: Document
 title: paul_alfred_laga.pdf
 uid: ab3c1c4b-b378-503d-f3bd-e596a93a1f65
 ---
+This file contains biography for Paul Alfred Lagace, margaret MacVicar faculty fellow, professor of aeronautics and astronautics and engineering systems
+co-director, leaders For manufacturing and system design and management.
+Programs
+
