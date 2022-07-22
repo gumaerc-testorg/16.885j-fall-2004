@@ -6,6 +6,7 @@ file: /courses/16-885j-aircraft-systems-engineering-fall-2004/60b9ec8d434df25ab8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: envir_factors2_1.pdf
 uid: 60b9ec8d-434d-f25a-b86c-965d853b3ed2
 ---
 This file contains information about overview of environmental effects of aircraft, aircraft noise, and aircraft pollutant emission.
-

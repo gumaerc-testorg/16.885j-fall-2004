@@ -5,6 +5,7 @@ file: /courses/16-885j-aircraft-systems-engineering-fall-2004/edc49f0b49ea020cd1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

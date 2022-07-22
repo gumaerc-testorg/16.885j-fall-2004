@@ -6,6 +6,7 @@ file: /courses/16-885j-aircraft-systems-engineering-fall-2004/becde51f29171efedb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: mckinzie_bio.pdf
 uid: becde51f-2917-1efe-dba9-1402e3d816ae
 ---
 This file contains the biography for Gordon McKinzie Manager, New Aircraft Development United Airlines.
-

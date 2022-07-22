@@ -6,6 +6,7 @@ file: /courses/16-885j-aircraft-systems-engineering-fall-2004/dfeae3bb47e8b5e6b5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: pres_willcox.pdf
 uid: dfeae3bb-47e8-b5e6-b562-a0159ee2cccb
 ---
 This file contains notes for the topics: Lifecycle cost, Operating cost, Development cost, Manufacturing cost, Revenue, and Valuation techniques.
-

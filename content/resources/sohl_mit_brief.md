@@ -6,6 +6,7 @@ file: /courses/16-885j-aircraft-systems-engineering-fall-2004/ddcea8863f25693fcb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: sohl_mit_brief.pdf
 uid: ddcea886-3f25-693f-cb81-fe066dc905bc
 ---
 This file contains notes for flight control computer, system development and demonstration phase etc.
-

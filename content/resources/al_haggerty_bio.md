@@ -7,6 +7,7 @@ file: /courses/16-885j-aircraft-systems-engineering-fall-2004/489ca5b5f766291827
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: al_haggerty_bio.pdf
 uid: 489ca5b5-f766-2918-2773-b5efdbb2147e
 ---
 This file contains biography for Allen C. Haggerty, Vice President/General Manager Engineering Military Aircraft and Missile Systems Group (retired), The Boeing Company.
-
