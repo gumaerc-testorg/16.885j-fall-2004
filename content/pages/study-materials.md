@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Study materials section contains information about tehe case studies.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 7464a7de-6744-d97c-7d20-53562a912f35
 ---
@@ -26,7 +29,7 @@ Additional Resources
 
 Each team will have to search for and locate sources of information pertinent to their particular aircraft. The SME, the worldwide Web, technical literature, and the course faculty are all resources to utilize.
 
-Murman, E. M., and T. Allen. "Engineering Systems: An Aircraft Perspective". ([PDF]({{< baseurl >}}/resources/aircraftpersp-1))
+Murman, E. M., and T. Allen. "Engineering Systems: An Aircraft Perspective". ({{% resource_link 4665e240-307f-4fa3-0f76-0c6aab8d7ed6 "PDF" %}})
 
 Books
 -----

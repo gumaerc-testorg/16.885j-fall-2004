@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Syllabus section contains information about the outline and the grading
+  criteria.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ddb75a02-c4c2-77d7-eef0-a8d59346a4c9
 ---
@@ -45,7 +49,7 @@ Subject Organization
 
 *   The semester deliverable will be a written case study of an existing aircraft developed by a team of 4-5 students. There will be interim written and oral versions.
 *   Lectures on Tuesday and Thursday will cover material that should be relevant to the case study. The format will be approximately 75 minutes of lecture and 15 minutes of questions and discussion.
-*   Hardcopy of lecture notes/slides will be handed out. Available electronic versions can be found in the [lecture notes]({{< baseurl >}}/pages/lecture-notes) section.
+*   Hardcopy of lecture notes/slides will be handed out. Available electronic versions can be found in the {{% resource_link 11cdee1a-555f-7a47-7af7-8d52e8dbcf9d "lecture notes" %}} section.
 *   The lab on Wednesday at 4 pm will be allocated to team meetings or team oral presentations.
 *   A field trip to Sikorsky in Stratford, CT will be scheduled.
 

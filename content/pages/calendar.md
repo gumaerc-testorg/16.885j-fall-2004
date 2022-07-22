@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Calendar section contains names and titles of guest lecturers from industry,
+  from other universities, and from the Department of Aeronautics and Astronautics
+  at MIT.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 21baece6-de2f-0a6a-4317-0588182cd42f
 ---
