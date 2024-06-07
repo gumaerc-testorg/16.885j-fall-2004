@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the biography of Brian D. Kelly, Technical Fellow,
   Flight Crew Operations Integration Boeing Commercial Airplanes.
 file: /courses/16-885j-aircraft-systems-engineering-fall-2004/bed1f9cecec6d0fd7343a25f5f1b0ade_brian_kelly_bio.pdf
+file_size: 43049
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

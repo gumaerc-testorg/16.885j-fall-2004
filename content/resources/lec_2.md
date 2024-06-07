@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-885j-aircraft-systems-engineering-fall-2004/be44e16b94845517d0b45828f94d7889_lec_2.pdf
+file_size: 311011
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

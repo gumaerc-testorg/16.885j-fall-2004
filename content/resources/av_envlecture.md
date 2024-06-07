@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-885j-aircraft-systems-engineering-fall-2004/edc49f0b49ea020cd1642380d5662bd5_av_envlecture.pdf
+file_size: 2685363
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
