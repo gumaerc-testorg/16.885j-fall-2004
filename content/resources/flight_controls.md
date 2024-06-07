@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-885j-aircraft-systems-engineering-fall-2004/3a59202dbcb4d7fa3bde5dffe6ab80bd_flight_controls.pdf
+file_size: 5736630
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

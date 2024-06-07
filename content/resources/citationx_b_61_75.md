@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-885j-aircraft-systems-engineering-fall-2004/e8e150022f8f1484b984b0698a75de0f_citationx_b_61_75.pdf
+file_size: 2806825
 file_type: application/pdf
 learning_resource_types:
 - Projects
