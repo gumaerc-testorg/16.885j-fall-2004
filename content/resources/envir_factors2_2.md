@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information about overview of environmental effects
   of aircraft, aircraft noise, and aircraft pollutant emission.
-file: /courses/16-885j-aircraft-systems-engineering-fall-2004/043f9be117841409057877418466dddc_envir_factors2_2.pdf
+file: /ol-ocw-studio-app/courses/16-885j-aircraft-systems-engineering-fall-2004/043f9be117841409057877418466dddc_envir_factors2_2.pdf
 file_size: 2461367
 file_type: application/pdf
 learning_resource_types:
