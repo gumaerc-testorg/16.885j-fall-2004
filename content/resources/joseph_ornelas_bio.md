@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/16-885j-aircraft-systems-engineering-fall-2004/26f4c95138ca84dcf4042edcd4f7dd93_Joseph_Ornelas_Bio.pdf
+file: /courses/16-885j-aircraft-systems-engineering-fall-2004/26f4c95138ca84dcf4042edcd4f7dd93_Joseph_Ornelas_Bio.pdf
 file_size: 103359
 file_type: application/pdf
 learning_resource_types:

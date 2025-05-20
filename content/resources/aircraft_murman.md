@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for aircraft performance and static stability.
-file: /ol-ocw-studio-app/courses/16-885j-aircraft-systems-engineering-fall-2004/8f0df6c49fdf576015894db9b4f72745_aircraft_murman.pdf
+file: /courses/16-885j-aircraft-systems-engineering-fall-2004/8f0df6c49fdf576015894db9b4f72745_aircraft_murman.pdf
 file_size: 322080
 file_type: application/pdf
 learning_resource_types:

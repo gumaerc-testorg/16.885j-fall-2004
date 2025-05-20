@@ -4,7 +4,7 @@ description: 'This file contains notes for Geometry jargon
 
   ,Standard atmosphere, Airflow variables, Forces acting on aircraft, Aerodynamic
   coefficients, Lift curve, and Drag polar.'
-file: /ol-ocw-studio-app/courses/16-885j-aircraft-systems-engineering-fall-2004/10ad50aedfa52b48e527fbec49da636e_aero_primer.pdf
+file: /courses/16-885j-aircraft-systems-engineering-fall-2004/10ad50aedfa52b48e527fbec49da636e_aero_primer.pdf
 file_size: 111538
 file_type: application/pdf
 learning_resource_types:
