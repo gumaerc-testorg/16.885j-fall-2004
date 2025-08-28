@@ -3,7 +3,7 @@ content_type: resource
 description: 'This file covers topics: Safety, Certification, Federal Aviation Regulations,
   Safety Analysis,ICAT Probability vs. Consequences Graph, Descriptive Probabilities
   etc.'
-file: /courses/16-885j-aircraft-systems-engineering-fall-2004/dfa11eb9df7ae237f82e8a097dfaa885_reliability.pdf
+file: /ol-ocw-studio-app/courses/16-885j-aircraft-systems-engineering-fall-2004/dfa11eb9df7ae237f82e8a097dfaa885_reliability.pdf
 file_size: 1786480
 file_type: application/pdf
 learning_resource_types:
